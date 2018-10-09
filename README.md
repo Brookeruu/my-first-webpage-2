@@ -2,7 +2,7 @@
 
 #### _Web page describing starting at Epicodus, 10/9/2018_
 
-#### _**Phil Mass & Rohan Moore**_
+#### Phil Mass, Rohan Moore, & Brooke Perry
 
 ## Description
 
@@ -19,7 +19,7 @@ _None currently_
 
 ## Support and Contact Details
 
-_Contact philrmass@gmail or rohanpmoore@gmail.com for support_
+_Contact philrmass@gmail.com, rohanpmoore@gmail.com, or perrysbrooke@gmail.com for support_
 
 ## Technologies Used
 
@@ -29,4 +29,4 @@ _Contact philrmass@gmail or rohanpmoore@gmail.com for support_
 
 *This software is licensed under the MIT license.*
 
-Copyright (c) 2018 **Phil Mass, Rohan Moore**
+Copyright (c) 2018 **Phil Mass, Rohan Moore, Brooke Perry**
